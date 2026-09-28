@@ -1,0 +1,28 @@
+# Archivos compilados de Java
+out/
+build/
+dist/
+*.class
+*.jar
+
+# NetBeans
+nbproject/private/
+
+# IntelliJ, VS Code y Eclipse
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuración local con la contraseña (usa db.properties.example como plantilla)
+config/db.properties
+
+# Conector JDBC: cada quien lo descarga (ver README)
+lib/*.jar
