@@ -1,0 +1,7 @@
+# Copia este archivo como "db.properties" (en esta misma carpeta)
+# y escribe los datos de TU servidor MySQL.
+# db.properties está en .gitignore: tu contraseña nunca se sube a GitHub.
+
+url=jdbc:mysql://localhost:3306/escuela?serverTimezone=UTC
+usuario=root
+contrasena=
